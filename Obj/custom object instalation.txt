@@ -1,0 +1,20 @@
+Schwaa's Custom Objects - Installation
+Anvil2 - Updated 02/20/02 - Welded vertices, cut a few polys. retextured.
+http//:schwaa.0catch.com/
+-------------------------------------
+All objects for use in Thief II. Haven't been tested in Thief I or Thief Gold.
+This file is free to use and distribute as long as no changes are made without expressed permission of the author.
+=====================================
+Put the .bin files into ThiefII/obj folder.
+Put the .gif files into ThiefII/obj/txt16 folder.
+
+ Open Dromed. Go into the object hiearchy and find an existing object that resembles
+the item you want to use. Or create a new item under Physical, this way takes more 
+editting but you can get closer to what you want.
+
+ Then create and make it in the Dromed like a regular object.
+
+
+======================================
+Objects made by J.Knez/Studio of Schwaa. Allrights reserved. (C) 2001.
+For use in Thief II and Dromed II. No conection to TTLG Studios or Eidos Interactive. 

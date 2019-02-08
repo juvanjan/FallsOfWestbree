@@ -1,0 +1,24 @@
+===================================================================================
+Roof Top Water Tower By Jason Otto 08-01-2004
+===================================================================================
+http://www.jasonotto.net
+Ottoj55@hotmail.com
+===================================================================================
+Contents:
+h2otower.bin
+greemet.gif
+p2030149.gif
+pa200154.gif
+h2otower.an8
+h2otower.3ds
+===================================================================================
+Put the .bin files into ThiefII/obj folder.
+Put the .gif files into ThiefII/obj/txt16 folder.
+===================================================================================
+To install go to dromed and find an object similar to the one you wish to create,
+create this item then change the shape>model name to the .bin name.  You may have
+to adjust the physics dimension and other properties to get the correct effect.
+===================================================================================
+Object by Jason Otto, for use with Thief: The Dark Project, Thief: Gold and Thief 2:
+The Metal Age.  This object was not produced by Looking Glass Studios or Eidos 
+Interactive.

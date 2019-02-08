@@ -1,0 +1,30 @@
+
+Feuerkörbe/Fire baskets
+
+
+
+Kopiere entsprechende bin Datei in das T2/obj Verzeichnis. 
+Kopiere die gif Datei in den txt16 Ordner. 
+
+Wähle ein Objekt aus der Hierarchie(z.B -4533) oder erstelle 
+ein neues Objekt. Gehe zu Add/Shape/Modelname und trage den
+entsprechenden Namen der bin Datei ein.
+
+Passe die Dimensions gegebenfalls der Größe an!
+
+
+
+
+Copy the bin file into the T2/obj folder, copy the 
+gif file into the txt16 folder.
+
+Chosse an object from the hierarchy (for example -4533)
+or create a new object.
+Go to Add/Shape/Modelname and enter the name of the bin.
+
+Under Model, if need, adjust the dimensions of the new object.
+
+
+
+
+Copyright by DarkShadow 2012

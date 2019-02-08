@@ -1,0 +1,15 @@
+Both models got VHot Points for easier placement. Make use of DetailAttachement links but be sure to delete them afterwards.
+
+
+DArborStand 4 VHots
+VHot 1 for Stand on right
+VHot 2 for Top on right
+VHot 3 for Stand on Left
+VHot 4 for Top on Left
+
+DArborTop 2 VHots
+VHot 1 for stand on right
+VHot 2 for stand on left
+
+
+Textures are made with Genetica from Spiral Graphics Inc. http://www.spiralgraphics.biz/
